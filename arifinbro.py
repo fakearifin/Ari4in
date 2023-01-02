@@ -423,7 +423,7 @@ class Main:
 		print(" [4] 2009-10 Cloning")
 		print(" [5] 2011-14 Cloning")
 		print(" [E] Exit Programming\n")
-		YE4S1N =input(" Choose : ")
+		AR1F1N =input(" Choose : ")
 		if AR1F1N in ["1", "01"]:
 			File()
 		if AR1F1N in ["2", "02"]:
